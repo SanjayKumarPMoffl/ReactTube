@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactTube/static/css/main.87fd8d97.css",
+    "main.js": "/ReactTube/static/js/main.929340eb.js",
+    "static/js/787.f53687a5.chunk.js": "/ReactTube/static/js/787.f53687a5.chunk.js",
+    "index.html": "/ReactTube/index.html",
+    "main.87fd8d97.css.map": "/ReactTube/static/css/main.87fd8d97.css.map",
+    "main.929340eb.js.map": "/ReactTube/static/js/main.929340eb.js.map",
+    "787.f53687a5.chunk.js.map": "/ReactTube/static/js/787.f53687a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87fd8d97.css",
+    "static/js/main.929340eb.js"
+  ]
+}
