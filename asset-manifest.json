@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.87fd8d97.css",
-    "main.js": "/static/js/main.a8306c11.js",
-    "static/js/787.f53687a5.chunk.js": "/static/js/787.f53687a5.chunk.js",
-    "index.html": "/index.html",
-    "main.87fd8d97.css.map": "/static/css/main.87fd8d97.css.map",
-    "main.a8306c11.js.map": "/static/js/main.a8306c11.js.map",
-    "787.f53687a5.chunk.js.map": "/static/js/787.f53687a5.chunk.js.map"
+    "main.css": "/ReactTube/static/css/main.87fd8d97.css",
+    "main.js": "/ReactTube/static/js/main.c4efe8ac.js",
+    "static/js/787.f53687a5.chunk.js": "/ReactTube/static/js/787.f53687a5.chunk.js",
+    "index.html": "/ReactTube/index.html",
+    "main.87fd8d97.css.map": "/ReactTube/static/css/main.87fd8d97.css.map",
+    "main.c4efe8ac.js.map": "/ReactTube/static/js/main.c4efe8ac.js.map",
+    "787.f53687a5.chunk.js.map": "/ReactTube/static/js/787.f53687a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87fd8d97.css",
-    "static/js/main.a8306c11.js"
+    "static/js/main.c4efe8ac.js"
   ]
 }
