@@ -13,7 +13,7 @@ import Navbar from './components/Navbar';
 const theme = createTheme();
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename='/ReactTube'>
     <Box sx={{ backgroundColor: '#000' }}>
       <Navbar />
       <Routes>
